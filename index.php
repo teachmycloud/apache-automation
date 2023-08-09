@@ -29,6 +29,9 @@ $vis_ip = getVisIPAddr();
 echo $vis_ip; 
 ?>
 <br>
+<br>
+<br>
+<br>  
 <IMG SRC="logo.png" ALT="logo"><br>
 </center>
 </h1>
