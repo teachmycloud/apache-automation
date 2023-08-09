@@ -28,6 +28,7 @@ $vis_ip = getVisIPAddr();
 // Display the IP address 
 echo $vis_ip; 
 ?>
+<br>
 <IMG SRC="logo.png" ALT="logo"><br>
 </center>
 </h1>
