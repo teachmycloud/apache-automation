@@ -3,7 +3,6 @@
 <body>
 <h1>
 <center>
-<IMG SRC="logo.png" ALT="logo"><br>
 <?php
   echo "Internal IP:-";
 echo $_SERVER['SERVER_ADDR'];
@@ -29,6 +28,7 @@ $vis_ip = getVisIPAddr();
 // Display the IP address 
 echo $vis_ip; 
 ?>
+<IMG SRC="logo.png" ALT="logo"><br>
 </center>
 </h1>
 </body>
